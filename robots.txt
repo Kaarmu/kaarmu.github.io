@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kaarmu.github.io/al-folio/sitemap.xml
+Sitemap: https://kaarmu.github.io/sitemap.xml
